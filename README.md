@@ -13,7 +13,7 @@ This React application allows users to test their typing speed and accuracy. It 
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/yourusername/wpm-test-app.git
+git clone https://github.com/Nyandiekahh/Words-Per-Minute-Counter-in-REACTjs.git
 cd wpm-test-app
 Copy
 2. Install dependencies:
